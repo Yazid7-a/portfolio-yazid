@@ -18,7 +18,7 @@ Este es mi portfolio web personal como Desarrollador Junior especializado en Pyt
 - Proyectos con enlaces a GitHub
 
 ## 📫 Contacto
-- 📧 Email: yazidslafti@gmail.com
+- 📧 Email: yazidslafti7@gmail.com
 - 📞 Teléfono: +34 672 280 414
 - 🔗 LinkedIn: [linkedin.com/in/yazidslafti](https://linkedin.com/in/yazidslafti)
 
